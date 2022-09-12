@@ -41,7 +41,7 @@
 
 - 🌱 I’m currently learning **Java, Android.**
 
-- 📫 How to reach me **sakib62.coder@gmail.com**
+- 📫 Reach me at **sakib62.coder@gmail.com**
 
 <h3 align="left">Connect With Me</h3>
 <p align="left">
