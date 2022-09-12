@@ -18,8 +18,6 @@
     -->
 </p>
 
-[![](https://visitcount.itsvg.in/api?id=sakib62&icon=7&color=5)](https://visitcount.itsvg.in)
-
 <h3 align="left">📈 Stats</h3>
 
 <p>
