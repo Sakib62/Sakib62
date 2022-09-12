@@ -20,6 +20,15 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sakib62" alt="sakib62" /></a> </p>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=sakib62&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+### 😂 Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
+
 <p align="left"> <a href="https://twitter.com/supersakib62" target="blank"><img src="https://img.shields.io/twitter/follow/supersakib62?logo=twitter&style=for-the-badge" alt="supersakib62" /></a> </p>
 
 - 🔭 I’m currently studying Software Engineering in [SUST](https://www.sust.edu/)
