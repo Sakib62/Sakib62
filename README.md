@@ -2,7 +2,7 @@
     Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">, I am Sakibul Islam
 </h1>
 <p align="center" width="150px"> 
-    I am currently studying <b> Software Engineering </b> in <b> Shahjalal University of Science and Technology. </b> 
+    I am currently studying <b> Software Engineering </b> in <b> Shahjalal University of Science and Technology.</b> 
     <a href = "https://www.sust.edu/institutes/iict" <b> (SUST) </b> </a> 
 </p>
 <p align="left: width="150px">
@@ -27,7 +27,7 @@
 </p>
 
 ### 🏆 GitHub Trophies
-<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=sakib62&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="sakib62"/> </p>
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=sakib62&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7" alt="sakib62"/> </p>
 
 <!--
 ## 🏆 GitHub Trophies
@@ -35,16 +35,16 @@
 
 <hr>
 
-<p align="left"> <a href="https://twitter.com/supersakib62" target="blank"><img src="https://img.shields.io/twitter/follow/supersakib62?logo=twitter&style=for-the-badge" alt="supersakib62" /></a> </p>
+<p align="center"> <a href="https://twitter.com/supersakib62" target="blank"><img src="https://img.shields.io/twitter/follow/supersakib62?logo=twitter&style=for-the-badge" alt="supersakib62" /></a> </p>
 
-- 🔭 I’m currently studying Software Engineering in [SUST](https://www.sust.edu/)
+<p align="center">
+    🔭 I’m currently studying <b>Software Engineering</b> in <a href="https://www.sust.edu/">SUST</a> <br>
+    🌱 I’m currently learning <b>Java, Android</b> <br>
+    📫 Reach me at <a href="mailto: sakib62.coder@gmail.com">sakib62.coder@gmail.com</a>
+</p>
 
-- 🌱 I’m currently learning **Java, Android.**
-
-- 📫 Reach me at **sakib62.coder@gmail.com**
-
-<h3 align="left">Connect With Me</h3>
-<p align="left">
+<h2 align="left"><i>💙 Connect With Me</i></h3>
+<p align="center">
 <a href="https://twitter.com/supersakib62" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="supersakib62" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sakib-ul-islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sakib-ul-islam" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/13627617" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13627617" height="30" width="40" /></a>
@@ -59,20 +59,34 @@
 <a href="https://www.topcoder.com/members/sakib62" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="sakib62" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+<h2 align="left"><i>🔨 Languages and Tools</i></h3>
+<p align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
 
-### ✍️ Random Dev Quote
-<img align='center' src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+<h2 align="center"> ✍️ Random Dev Quote</h2>
+<p align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/> </p>
 
 <hr>                                                                                                      
                                                                                                       
-<h3 align="left">Contribution</h3>
+<h2 align="center"><i>Contribution</i></h3>
 
 <p align='center'>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakib62&theme=react&count_private=true" >
-    <img src="https://activity-graph.herokuapp.com/graph?username=sakib62&theme=react-dark" height="300px">
+    <img src="https://activity-graph.herokuapp.com/graph?username=sakib62&theme=react-dark" height="280px" width="1200px">
 <p/>
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px" height="400px"/>
+<hr>
+
+<!--Meme & metrics-->
+
+<figure>
+    <img align="right" src="https://metrics.lecoq.io/sakib62" width="485px" height="350px">
+    <figcaption><h3 align="Center">😂Random Dev Meme</h3></figcaption>
+</figure>
+
+<figure>
+    <img align="left" src="https://random-memer.herokuapp.com/" width="485px" height="350px"/> 
+    <figcaption><h3 align="center">:chart:Github Metrics</h3></figcaption>
+</figure>
+
+<br>
+<hr>
