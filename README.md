@@ -1,3 +1,5 @@
+<p align="center"><img src="https://github.com/Sakib62/Sakib62/blob/main/MyIntro.gif" width="800px" height="300px"></p>
+
 <h1 align="center"> 
     Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">, I am Sakibul Islam
 </h1>
