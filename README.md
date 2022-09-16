@@ -62,7 +62,7 @@
 <h2 align="left"><i>🔨 Languages and Tools</i></h3>
 <p align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
 
-<h2 align="center"> ✍️ Random Dev Quote</h2>
+<h2 align="left"> ✍️ Random Dev Quote</h2>
 <p align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/> </p>
 
 <hr>                                                                                                      
@@ -78,15 +78,14 @@
 
 <!--Meme & metrics-->
 
-<figure>
-    <img align="right" src="https://metrics.lecoq.io/sakib62" width="485px" height="350px">
-    <figcaption><h3 align="Center">😂Random Dev Meme</h3></figcaption>
-</figure>
+### 😂Random Dev Meme
 
-<figure>
-    <img align="left" src="https://random-memer.herokuapp.com/" width="485px" height="350px"/> 
-    <figcaption><h3 align="center">:chart:Github Metrics</h3></figcaption>
-</figure>
+ <p align="center">
+                  <img src="https://random-memer.herokuapp.com/" width="500px" height="350px"/> </p>
 
-<br>
-<hr>
+<details>
+<summary><b>Github Metrics</b></summary> 
+                                  
+<img src="https://metrics.lecoq.io/sakib62">
+
+</details>
