@@ -100,14 +100,11 @@
 
 <!--Meme & metrics-->
 
-<p><img align="right" alt="GIF" src="https://media.giphy.com/media/RK5KD6UcUpAt92zZvt/giphy.gif" width="400px" height="350px"/></p>
-
 ### 😂Random Dev Meme
 
-<p>
-    <img align='left' src="https://random-memer.herokuapp.com/" width="400px" height="350px" alt="Random meme everyday!"/> 
-</p>
-
+<p><img align="left" src="https://random-memer.herokuapp.com/" width="350px" height="350px" alt="Random meme everyday!"/></p>
+<p><img align="right" alt="GIF" src="https://media.giphy.com/media/RK5KD6UcUpAt92zZvt/giphy.gif" width="350px" height="350px"/></p>
+                     
 <!--<details><summary><b>Github Metrics</b></summary> 
                                   
 <img src="https://metrics.lecoq.io/sakib62" alt="Github Stats of Sakib62">
