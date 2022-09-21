@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Student+at+SWE+,+SUST;A+Passionate+Competitive+Programmer;DS%20|%20Algorithm%20|%20OOP%20;&center=true&size=20"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Student+at+SWE+,+SUST;A+Passionate+Competitive+Programmer;DS%20|%20Algorithm%20|%20OOP%20;&center=true"></a>
 </p>
 
 <!--<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=75&duration=1500&pause=600&color=0CE82B&background=000000EE&center=true&vCenter=true&multiline=true&width=1920&height=384&lines=Hello+there!;My+name+is+Clayton+Hamilton%2C+PharmD;Welcome+to+my+README" alt="Typing SVG" /></a>-->
@@ -43,7 +43,7 @@
 
 <p>
   <img align='left' src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sakib62&layout=compact&langs_count=8&theme=algolia" width="350"/>
- &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; <img align='center' src= "https://github-readme-stats.vercel.app/api?username=sakib62&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true%22%20" width="420"/> 
+<img align='center' src= "https://github-readme-stats.vercel.app/api?username=sakib62&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true%22%20" width="420"/> 
 </p>
 
 ### 🏆 GitHub Trophies
@@ -85,7 +85,7 @@
 </p>
 
 <h2 align="left">✍️ Random Dev Quote</h2>
-<p><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random quote everyday" width="600px"/> </p>
+<p><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random quote everyday" width="400px"/> </p>
 
 <hr>                                                                                                      
                                                                                                       
@@ -100,12 +100,12 @@
 
 <!--Meme & metrics-->
 
-<p><img align="right" alt="GIF" src="https://media.giphy.com/media/RK5KD6UcUpAt92zZvt/giphy.gif" width="450px" height="420px"/></p>
+<p><img align="right" alt="GIF" src="https://media.giphy.com/media/RK5KD6UcUpAt92zZvt/giphy.gif" width="400px" height="350px"/></p>
 
 ### 😂Random Dev Meme
 
 <p>
-    <img src="https://random-memer.herokuapp.com/" width="500px" height="350px" alt="Random meme everyday!"/> 
+    <img align='left' src="https://random-memer.herokuapp.com/" width="400px" height="350px" alt="Random meme everyday!"/> 
 </p>
 
 <!--<details><summary><b>Github Metrics</b></summary> 
