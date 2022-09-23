@@ -98,18 +98,21 @@
 
 <hr>
 
-<!--Meme & metrics-->
+<!--Meme & metrics
 
 ### 😂Random Dev Meme
 
-<p><img align="left" src="https://random-memer.herokuapp.com/" width="350px" height="350px" alt="Random meme everyday!"/></p>
-<p><img align="right" alt="GIF" src="https://media.giphy.com/media/RK5KD6UcUpAt92zZvt/giphy.gif" width="350px" height="350px"/></p>
-                     
-<!--<details><summary><b>Github Metrics</b></summary> 
+    <p><img align="left" src="https://random-memer.herokuapp.com/" width="350px" height="350px" alt="Random meme everyday!"/></p>
+    <p><img align="right" alt="GIF" src="https://media.giphy.com/media/RK5KD6UcUpAt92zZvt/giphy.gif" width="350px" height="350px"/></p>
+-->     
+
+<!--
+<details><summary><b>Github Metrics</b></summary> 
                                   
 <img src="https://metrics.lecoq.io/sakib62" alt="Github Stats of Sakib62">
 
-</details>-->
+</details>
+-->
 
 <!--[![Sakib62's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=13627617&layout=compact)](https://stackoverflow.com/users/13627617/sakib62)-->
 
@@ -117,7 +120,10 @@
     <img align='center' src="https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif" >
 </p>
 
-<!--<img align="center" alt="GIF" src="https://media.giphy.com/media/hrSFdM4rg8VFpXyz2m/giphy.gif" />
-<img width="490" height="270" src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" align=right>-->
+<!--
+    <img align="center" alt="GIF" src="https://media.giphy.com/media/hrSFdM4rg8VFpXyz2m/giphy.gif" />
+    <img width="490" height="270" src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" align=right>
+-->
+
 <h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
 <!-- https://github.com/PrincessAkira/PrincessAkira/blob/master/README.md -->
